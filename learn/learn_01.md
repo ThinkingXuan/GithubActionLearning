@@ -7,7 +7,7 @@
 
 GitHub 做了一个官方市场(`Marketplace`)，可以搜索到他人提交的 `actions`。另外，还有一个 awesome actions 的仓库，也可以找到不少 `action`。
 
-![img.png](img.png)
+![img.png](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/20210507215545.png)
 
 上面说了，每个 `action `就是一个独立脚本，因此可以做成代码仓库，使用`userName/repoName`的语法引用 `action`。比如，`actions/setup-node`就表示`github.com/actions/setup-node`这个仓库，它代表一个 `action`，作用是安装 Node.js。事实上，GitHub 官方的 actions 都放在 github.com/actions 里面。
 
