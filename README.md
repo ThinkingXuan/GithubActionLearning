@@ -9,3 +9,11 @@
 - workflow 文件
 - 实例测试
 
+[3. React 项目发布到 GitHub Pages](learn/learn_03.md)
+- 申请github密钥
+- 本地生成 React应用
+- 编写workflows文件
+- 上传代码到github
+- 开启Github Pages
+
+项目访问地址：[https://thinkingxuan.github.io/GithubActionLearning/](https://thinkingxuan.github.io/GithubActionLearning/)
