@@ -25,3 +25,8 @@ GitHub Actions 有一些自己的术语。
 （3）**step**（步骤）：每个 job 由多个 step 构成，一步步完成。
 
 （4）**action** （动作）：每个 step 可以依次执行一个或多个命令（action）。
+
+----
+以上内容来源于：
+
+[GitHub Actions 入门教程](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)

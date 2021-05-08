@@ -42,8 +42,8 @@ on: [push, pull_request]
 ```yaml
 on:
   push:
-	branches:
-	  - master
+    branches:
+      - master
 ```
 
 
@@ -161,3 +161,8 @@ GithubActionLearn/
 ![图3](https://cdn.jsdelivr.net/gh/ThinkingXuan/HexoStaticImage/img/20210508093736.png)
 
 可以看到命令已经执行成功。
+
+----
+以上内容来源于：
+
+[GitHub Actions 入门教程](https://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
