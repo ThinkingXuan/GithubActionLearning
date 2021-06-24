@@ -1,7 +1,8 @@
 name: debugger-action
 on:
-  watch:
-    types: started
+  push:
+    branches:
+      - test
 jobs:
   build:
     runs-on: ubuntu-latest
