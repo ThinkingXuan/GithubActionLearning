@@ -162,6 +162,8 @@ GithubActionLearn/
 
 可以看到命令已经执行成功。
 
+[点击获取代码](https://github.com/ThinkingXuan/GithubActionLearning)
+
 ----
 以上内容来源于：
 
