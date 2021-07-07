@@ -16,4 +16,6 @@
 - 上传代码到github
 - 开启Github Pages
 
+[4. 教你如何使用SSH链接Github Action服务器](https://zhuanlan.zhihu.com/p/387389708)
+
 项目访问地址：[https://thinkingxuan.github.io/GithubActionLearning/](https://thinkingxuan.github.io/GithubActionLearning/)
